@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "title": "JavaScript: The Definitive Guide",
+    "authors": [
+      { "id": 101, "name": "David Flanagan" }
+    ],
+    "publisher": {
+      "name": "O'Reilly Media",
+      "location": "USA"
+    },
+    "categories": ["Programming", "JavaScript"],
+    "year": 2020,
+    "details": {
+      "pages": 1096,
+      "isbn": "9781491952023",
+      "availability": {
+        "online": true,
+        "library": false
+      }
+    }
+  },
+  {
+    "id": 2,
+    "title": "Eloquent JavaScript",
+    "authors": [
+      { "id": 102, "name": "Marijn Haverbeke" }
+    ],
+    "publisher": {
+      "name": "No Starch Press",
+      "location": "USA"
+    },
+    "categories": ["Programming", "JavaScript", "Web Development"],
+    "year": 2018,
+    "details": {
+      "pages": 472,
+      "isbn": "9781593279509",
+      "availability": {
+        "online": true,
+        "library": true
+      }
+    }
+  },
+  {
+    "id": 3,
+    "title": "You Don’t Know JS Yet",
+    "authors": [
+      { "id": 103, "name": "Kyle Simpson" }
+    ],
+    "publisher": {
+      "name": "Independently Published",
+      "location": "USA"
+    },
+    "categories": ["Programming", "JavaScript"],
+    "year": 2020,
+    "details": {
+      "pages": 143,
+      "isbn": "9798602477429",
+      "availability": {
+        "online": true,
+        "library": false
+      }
+    }
+  },
+  {
+    "id": 4,
+    "title": "Clean Code",
+    "authors": [
+      { "id": 104, "name": "Robert C. Martin" }
+    ],
+    "publisher": {
+      "name": "Prentice Hall",
+      "location": "USA"
+    },
+    "categories": ["Programming", "Software Engineering"],
+    "year": 2008,
+    "details": {
+      "pages": 464,
+      "isbn": "9780132350884",
+      "availability": {
+        "online": false,
+        "library": true
+      }
+    }
+  },
+  {
+    "id": 5,
+    "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+    "authors": [
+      { "id": 105, "name": "Erich Gamma" },
+      { "id": 106, "name": "Richard Helm" },
+      { "id": 107, "name": "Ralph Johnson" },
+      { "id": 108, "name": "John Vlissides" }
+    ],
+    "publisher": {
+      "name": "Addison-Wesley Professional",
+      "location": "USA"
+    },
+    "categories": ["Programming", "Software Design"],
+    "year": 1994,
+    "details": {
+      "pages": 395,
+      "isbn": "9780201633610",
+      "availability": {
+        "online": false,
+        "library": true
+      }
+    }
+  },
+  {
+    "id": 6,
+    "title": "Introduction to Algorithms",
+    "authors": [
+      { "id": 109, "name": "Thomas H. Cormen" },
+      { "id": 110, "name": "Charles E. Leiserson" },
+      { "id": 111, "name": "Ronald L. Rivest" },
+      { "id": 112, "name": "Clifford Stein" }
+    ],
+    "publisher": {
+      "name": "MIT Press",
+      "location": "USA"
+    },
+    "categories": ["Programming", "Algorithms", "Computer Science"],
+    "year": 2009,
+    "details": {
+      "pages": 1312,
+      "isbn": "9780262033848",
+      "availability": {
+        "online": true,
+        "library": true
+      }
+    }
+  },
+  {
+    "id": 7,
+    "title": "The Pragmatic Programmer",
+    "authors": [
+      { "id": 113, "name": "Andrew Hunt" },
+      { "id": 114, "name": "David Thomas" }
+    ],
+    "publisher": {
+      "name": "Addison-Wesley Professional",
+      "location": "USA"
+    },
+    "categories": ["Programming", "Best Practices"],
+    "year": 2019,
+    "details": {
+      "pages": 352,
+      "isbn": "9780135957059",
+      "availability": {
+        "online": true,
+        "library": true
+      }
+    }
+  },
+  {
+    "id": 8,
+    "title": "Effective Java",
+    "authors": [
+      { "id": 115, "name": "Joshua Bloch" }
+    ],
+    "publisher": {
+      "name": "Addison-Wesley Professional",
+      "location": "USA"
+    },
+    "categories": ["Programming", "Java"],
+    "year": 2018,
+    "details": {
+      "pages": 416,
+      "isbn": "9780134685991",
+      "availability": {
+        "online": true,
+        "library": false
+      }
+    }
+  },
+  {
+    "id": 9,
+    "title": "Artificial Intelligence: A Modern Approach",
+    "authors": [
+      { "id": 116, "name": "Stuart Russell" },
+      { "id": 117, "name": "Peter Norvig" }
+    ],
+    "publisher": {
+      "name": "Pearson",
+      "location": "USA"
+    },
+    "categories": ["Artificial Intelligence", "Computer Science"],
+    "year": 2020,
+    "details": {
+      "pages": 1152,
+      "isbn": "9780134610993",
+      "availability": {
+        "online": false,
+        "library": true
+      }
+    }
+  },
+  {
+    "id": 10,
+    "title": "Deep Learning",
+    "authors": [
+      { "id": 118, "name": "Ian Goodfellow" },
+      { "id": 119, "name": "Yoshua Bengio" },
+      { "id": 120, "name": "Aaron Courville" }
+    ],
+    "publisher": {
+      "name": "MIT Press",
+      "location": "USA"
+    },
+    "categories": ["Artificial Intelligence", "Machine Learning"],
+    "year": 2016,
+    "details": {
+      "pages": 800,
+      "isbn": "9780262035613",
+      "availability": {
+        "online": true,
+        "library": false
+      }
+    }
+  }
+]
